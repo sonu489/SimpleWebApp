@@ -101,6 +101,7 @@ h1{
 		
         </header>
          <h1>This is the Home Page</h1>
+	 <h2> This is the body </h2>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
