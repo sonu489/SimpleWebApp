@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-	 <h1> This is the home Page - Anvesh is giving worldwide offers on our websites. HURRY!!!</h1>
+	 <h1> This is the home Page - HURRY FOR DEALS!!!</h1>
 	 <h2> This is the body </h2>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
